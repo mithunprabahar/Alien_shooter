@@ -1,2 +1,2 @@
 # Alien_shooter
- A game created using python
+ A 2d game created using python
